@@ -78,7 +78,7 @@ This project demonstrates the implementation of a **Continuous Integration (CI)*
 
 1. **Clone the repository** to your local machine:
    ```bash
-   git clone https://github.com/yourusername/ultimate-ci-cd-project.git
+   [git clone https://github.com/yourusername/ultimate-ci-cd-project.git](https://github.com/manojgowda593/Jenkins-Zero-To-Hero.git)
    ```
 
 2. **Set up a Jenkins instance** with necessary plugins (Maven, Docker, SonarQube).
