@@ -15,7 +15,7 @@ This project demonstrates the implementation of a **Continuous Integration (CI)*
 - **DockerHub**
 - **Kubernetes**
 - **Argo CD**
-
+- https://manojresumebucket.s3.ap-south-1.amazonaws.com/Screenshot+(149).png
 ---
 
 ## 🔑 **Steps in the Pipeline**
