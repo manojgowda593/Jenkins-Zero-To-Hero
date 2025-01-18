@@ -29,21 +29,26 @@ This project demonstrates the implementation of a **Continuous Integration (CI)*
 
 - Jenkins automatically triggers a **build process** using **Maven**.
 - The build ensures the source code compiles successfully and packages it into a **JAR file** for further use.
+- https://manojresumebucket.s3.ap-south-1.amazonaws.com/Screenshot+(139).png
 
 ### 3️⃣ **Static Code Analysis**
 
 - **SonarQube** is integrated into the pipeline for **static code analysis**.
 - The pipeline will only proceed if the code passes all **quality checks**.
+- https://manojresumebucket.s3.ap-south-1.amazonaws.com/Screenshot+(140).png
 
 ### 4️⃣ **Containerization**
 
 - The application is **containerized** using **Docker**.
 - A **Docker image** is built and pushed to **DockerHub** for deployment purposes.
+- https://manojresumebucket.s3.ap-south-1.amazonaws.com/Screenshot+(141).png
 
 ### 5️⃣ **Deployment with Argo CD**
 
 - **Kubernetes deployment manifests** are updated with the new Docker image version.
 - **Argo CD** is used to automate the deployment to the Kubernetes cluster.
+- https://manojresumebucket.s3.ap-south-1.amazonaws.com/Screenshot+(146).png
+- https://manojresumebucket.s3.ap-south-1.amazonaws.com/Screenshot+(147).png
 
 ---
 
